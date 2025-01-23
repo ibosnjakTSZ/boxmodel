@@ -1,0 +1,9 @@
+p:first-of-type {
+    border-style: inset;
+}
+
+p:nth-of-type(2) {
+    border: 2px solid red;
+    border-bottom-width: thin;
+    border-top-width: thin;
+}

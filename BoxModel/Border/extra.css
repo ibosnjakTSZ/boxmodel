@@ -1,0 +1,25 @@
+*:not(body, html) {
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+div {
+    width: 200px;
+    height: 140px;
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+#main {
+    flex-direction: row;
+    width: fit-content;
+    margin: auto;
+}
+
+p {
+    width: 150px;
+    height: 90px;
+    text-align: center;
+    margin: auto;
+}

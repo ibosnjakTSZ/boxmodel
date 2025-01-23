@@ -1,0 +1,7 @@
+p:first-of-type {
+    padding: 1cm;
+}
+
+p:last-of-type {
+    padding: 1.5cm 3cm;
+}
