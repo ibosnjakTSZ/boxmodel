@@ -1,0 +1,15 @@
+p {
+    border: 1px solid black;
+}
+
+.pOutlineRedDouble {
+    outline-width: thick;
+    outline-style: double;
+    outline-color: red;
+}
+
+.pOutlineGreenDouble {
+    outline-width: 3px;
+    outline-style: double;
+    outline-color: green;
+}
